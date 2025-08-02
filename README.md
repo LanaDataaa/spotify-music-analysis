@@ -4,8 +4,7 @@ Exploratory data analysis of Spotify tracks to understand musical trends and pop
 ## 🎯 Key Questions Explored
 
 1. **What makes a song popular?** - Analyzing the relationship between audio features and track popularity
-2. **How have musical tastes evolved?** - Tracking changes in musical characteristics across decades  
-3. **What's the perfect song formula?** - Finding optimal combinations of tempo, duration, and energy
+2. **What's the perfect song formula?** - Finding optimal combinations of tempo, duration, and energy
 
 ## 📊 Key Findings
 
