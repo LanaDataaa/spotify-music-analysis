@@ -29,6 +29,9 @@ Exploratory data analysis of Spotify tracks to understand musical trends and pop
 
 ## 📈 Sample Visualizations
 
+<img width="1256" height="1162" alt="image" src="https://github.com/user-attachments/assets/02e46f4a-3123-4e1d-9bfa-1d30c322548a" />
+<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/43057def-28a4-4469-a091-19f5a4ccca52" />
+
 
 
 ## 💡 Business Implications
