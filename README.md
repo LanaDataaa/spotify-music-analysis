@@ -9,7 +9,6 @@ Exploratory data analysis of Spotify tracks to understand musical trends and pop
 ## 📊 Key Findings
 
 - Songs with higher danceability show 23% higher average popularity
-- Musical energy has increased 40% since the 1970s
 - The optimal pop song length is 3 minutes 15 seconds
 - Happy songs (high valence) are 2x more likely to reach top charts
 
@@ -20,15 +19,6 @@ Exploratory data analysis of Spotify tracks to understand musical trends and pop
 - **Matplotlib/Seaborn** - Statistical visualizations
 - **Jupyter Notebooks** - Interactive analysis environment
 
-## 📁 Project Structure
-├── data/
-│   └── raw/                 # Original datasets (not tracked in git)
-├── notebooks/
-│   └── spotify_analysis.ipynb    # Main analysis notebook
-├── images/
-│   └── visualizations/      # Key plots and charts
-├── README.md
-└── requirements.txt
 
 ## 🚀 Getting Started
 
@@ -39,7 +29,7 @@ Exploratory data analysis of Spotify tracks to understand musical trends and pop
 
 ## 📈 Sample Visualizations
 
-[Add screenshots of your best charts here]
+
 
 ## 💡 Business Implications
 
