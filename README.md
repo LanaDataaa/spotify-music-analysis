@@ -14,7 +14,7 @@ Exploratory data analysis of Spotify tracks to understand musical trends and pop
 
 ## 🛠️ Technologies Used
 
-- **Python** - Data analysis and visualization
+- **Python** - Data analysis and visualisation
 - **Pandas** - Data manipulation and cleaning
 - **Matplotlib/Seaborn** - Statistical visualizations
 - **Jupyter Notebooks** - Interactive analysis environment
